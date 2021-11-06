@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there <img src="./resources/hi.gif" width="30px">
 
-<!--
-**PaoloBettelini/paolobettelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+- 🌱 I’m into
+    - Rust & Java
+    - Math
+    - Quantum computing
+    - Machine learning
+    - Rendering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paolobettelini&theme=tokyonight&layout=compact&hide_border=true&border_radius=25&custom_title=Top%20Languages&langs_count=10)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolobettelini&theme=tokyonight&hide_border=true&border_radius=25&count_private=true&include_all_commits=true&show_icons=true&custom_title=My%20Activity)
+
+<hr>
+
+![I use arch, btw](https://img.shields.io/badge/I%20use%20Arch%20btw-%2312100E.svg?logo=arch%20linux&style=for-the-badge)
