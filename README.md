@@ -18,4 +18,4 @@
 
 <hr>
 
-![I use arch, btw](https://img.shields.io/badge/I%20use%20Arch%20btw-%2312100E.svg?logo=arch%20linux&style=for-the-badge)
+[![gpg](https://img.shields.io/badge/My%20GPG%20key-313131?style=flat&labelColor=313131&color=313131)](https://github.com/paolobettelini.gpg)
