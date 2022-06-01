@@ -1,4 +1,4 @@
-## Hi there <img src="./resources/hi.gif" width="30px">
+## Hi there
 
 <hr>
 
