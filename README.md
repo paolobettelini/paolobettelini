@@ -3,11 +3,15 @@
 <hr>
 
 - 🌱 I’m into
-    - Rust & Java
+    - Programming (Rust)
     - Math
-    - Quantum computing
     - Machine learning
     - Rendering
+    - Cryptography
+    - Networking
+    - Linux
+    - Quantum computing
+    - Computer-assisted proofs
 
 <hr>
 
